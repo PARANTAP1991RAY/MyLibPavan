@@ -8,7 +8,7 @@ namespace MyLib
     {
         public string VersionInfo
         {
-            get { return "Initial Library Info"; }// TestPAVAN
+            get { return "Initial Library Info"; }// TestDeveloper2
         }
     }
 }
